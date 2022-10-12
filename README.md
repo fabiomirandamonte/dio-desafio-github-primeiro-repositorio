@@ -8,7 +8,7 @@
 
 ### Passo a passo:
 
-1. Inicialmente teremos que criar uma pasta no repositório local (desktop),  abrindo o **Git Bash**, iremos digitar o comando *mkdir + o nome da pasta.* Nesse caso meu repositório será **mkdir dio-desafio-github-primeiro-repositorio**.
+1. Inicialmente teremos que criar uma pasta no repositório local (desktop),  abrindo o **Git Bash**, iremos digitar o comando *mkdir + o nome da pasta.* No meu caso repositório será **mkdir dio-desafio-github-primeiro-repositorio**.
 
    
 
@@ -18,11 +18,27 @@
 
 3. Abrindo o **Git Bash**, iremos digitar o comando **git init** para inicializar o repositório. 
 
-   1. **Observação:** Dentro da pasta criada anteriormente irá aparecer uma pasta chamada **.git**, essa pasta ela fica oculta, é uma pasta gerencial, onde o git versiona os objetos que nos manipulamos.
+   * **Observação:** Dentro da pasta criada anteriormente irá aparecer uma pasta chamada **.git**, porem essa pasta ela fica oculta, é uma pasta gerencial do git, onde ele  versiona os objetos que nos iremos manipular.
+
+     
+
+4. Em seguida digitamos o comando **git add + readme.md**. Esse comando irá nos colocar na área de **STAGING**. 
+
+   - **git add** adiciona os arquivos modificados ou não-rastreados à *staging area* . 
+
+   - **Staging area** nada mais é que que um conjunto de arquivos cujas mudanças serão incluídas na nova versão, é uma janela de tempo entre uma versão e outra.
+
+     ![](C:\Users\fabio\Desktop\Image 2018-08-29 at 8.26.35 PM.webp)
+
+     
+
+   * Utilizando o comando **git status** podemos ver o estado relativo à staging are. 
 
    
 
-4. Em seguida digitamos o comando **git add readme.md**. Esse comando irá nos colocar na área de **STAGGING**.
+   
+
+   
 
     
 
@@ -30,7 +46,7 @@
 
 
 
-
+# :construction_worker: Em construção :desktop_computer:
 
 
 
