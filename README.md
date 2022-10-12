@@ -22,7 +22,7 @@
 
      
 
-4. Em seguida digitamos o comando **git add + readme.md**. Esse comando irá nos colocar na área de **STAGING**. 
+4. Em seguida digitamos o comando **git add + readme.md**.
 
    - **git add** adiciona os arquivos modificados ou não-rastreados à *staging area* . 
 
@@ -36,11 +36,23 @@
 
      ![](C:\Users\fabio\Desktop\GitStatus.jpg)
 
-   Nesse caso iremos digitar novamente o git add
+     Nesse caso esta aparecendo a seguinte frase *"Change not staged for commit"*,  iremos digitar novamente o *git add readme.md* , para podermos em seguida dar o comando **git commit -m "readme atualizado".**
 
    
 
-   teste
+   
+
+5. Usando o comando **git commit:**
+
+   * o git commit serve para registrar uma nova versão, somente as mudanças com estado "*staged*" farão parte do *commit**
+
+     **git commit -m "readme atualizado".**
+
+     
+
+6. 
+
+   
 
    
 
