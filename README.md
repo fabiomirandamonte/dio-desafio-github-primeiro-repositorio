@@ -32,11 +32,15 @@
 
      
 
-   * Utilizando o comando **git status** podemos ver o estado relativo à staging are. 
+   * Utilizando o comando **git status** podemos ver o estado relativo à staging area. Caso haja alguma modificação no arquivo, vai nos mostrar a seguinte mensagem como *modified*, 
+
+     ![](C:\Users\fabio\Desktop\GitStatus.jpg)
+
+   Nesse caso iremos digitar novamente o git add
 
    
 
-   
+   teste
 
    
 
