@@ -40,13 +40,13 @@
 
    
 
-   
-
 5. Usando o comando **git commit:**
 
    * o git commit serve para registrar uma nova versão, somente as mudanças com estado "*staged*" farão parte do *commit**
 
-     **git commit -m "readme atualizado".**
+     **git commit -m "readme.md".**
+
+     ![](C:\Users\fabio\Desktop\GitStatus.jpg)
 
      
 
@@ -67,7 +67,11 @@
 
 
 ### Link Úteis:
+[Introdução ao Git](https://petcomputacaoufrgs.github.io/intro-ao-git/o-que-eh.html)
+
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
 
 
 
